@@ -1,0 +1,45 @@
+body{
+	background: beige url('imagens/fundo.png');
+	font: 16px "Arial", "Helvetica", sans-serif;
+}
+
+h1{
+	color: #c5c5b2;
+	font-size: 2em;
+}
+
+.linkMenu{
+	color: #4b566a;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 5px;
+}
+
+.imgCampanha{
+	border: 10px solid #c5c5b2;
+}
+
+
+#conteudo{
+	background-color: white;
+	padding: 18px;
+}
+
+#rodape{
+	text-align: center;
+}
+
+#principal{
+	width: 900px;
+}
+
+
+#menu{
+	background: #c5c5b2;
+	padding: 18px;
+}
+
+#imagemTopo{
+	border: none;
+}
+
